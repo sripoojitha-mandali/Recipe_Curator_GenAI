@@ -10,8 +10,8 @@ By analyzing user queries and embeddings, Recipe Curator retrieves relevant reci
 
 ## Resources
 
-![YouTube](https://img.shields.io/badge/Watch%20Video-%F0%9F%92%AC%20YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)
-![Docs](https://img.shields.io/badge/Documentation-%F0%9F%93%9A%20Docs-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)
+[![YouTube](https://img.shields.io/badge/Watch%20Video-%F0%9F%92%AC%20YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/2ygSkvPSokg)
+[![Docs](https://img.shields.io/badge/Documentation-%F0%9F%93%9A%20Docs-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1oAR2gobQzSSdFpAoQOSezkRM6P3O6x_k/view?usp=sharing)
 ![App](https://img.shields.io/badge/Application-%F0%9F%92%BB%20App-green?style=for-the-badge&logo=appveyor&logoColor=white)
 
 
